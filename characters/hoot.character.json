@@ -1,6 +1,6 @@
 {
     "name": "HootTheTruth",
-    "clients": [],
+    "clients": ["twitter"],
     "modelProvider": "openai",
     "settings": {
         "voice": {
